@@ -1,7 +1,0 @@
-<script>
-  import App from "../App.svelte";
-
-
-</script>
-
-<App name="sloppybeans" />
